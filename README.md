@@ -15,7 +15,7 @@ Can do everythings.
 
 ![My Skills](https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim)
 
-![stats](https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&show_icons=true)
+![stats](https://github-readme-stats.vercel.app/api?username=RuNoBi&show_icons=true)
 
 # Contact
 
