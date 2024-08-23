@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?username=RuNoBi)
+
 # Who am I?
 I'm Puttaradol Pongpanich (Run)
 Computer Engineering And Digital Technology Chulalongkorn University
@@ -18,4 +20,6 @@ Can do everythings.
 # Contact
 
 [IG](https://www.instagram.com/run_ptrd/ "IG jaaa")
+
+
 
