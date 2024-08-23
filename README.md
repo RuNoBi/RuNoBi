@@ -17,5 +17,5 @@ Can do everythings.
 
 # Contact
 
-![IG](https://www.instagram.com/run_ptrd/)
+[IG](https://www.instagram.com/run_ptrd/)
 
