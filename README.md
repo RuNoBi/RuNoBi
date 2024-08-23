@@ -19,6 +19,10 @@ Can do everythings.
 
 ![stats](https://github-readme-stats.vercel.app/api?username=RuNoBi&show_icons=true)
 
+# activities
+![ee](https://media.giphy.com/media/1oQnlpv9nRCDe/giphy.gif?cid=ecf05e47w5qp4fklm4orv74naavhd9id8rhymf97hgmm5l7o&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![ee](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWh2cnNqMmw3ZmZyd3o5NTN3ZWdlaWhlZnYzYXh5aXlvenI2a3RmNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xULW8noWqx7KJp9lRK/giphy.gif)
+
 # Contact
 
 [IG](https://www.instagram.com/run_ptrd/ "IG jaaa")
