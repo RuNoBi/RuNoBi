@@ -15,11 +15,16 @@ Can do everythings.
 
 ![My Skills](https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=RuNoBi)
+
 ![stats](https://github-readme-stats.vercel.app/api?username=RuNoBi&show_icons=true)
 
 # Contact
 
 [IG](https://www.instagram.com/run_ptrd/ "IG jaaa")
+
+
+
 
 
 
