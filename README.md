@@ -15,3 +15,7 @@ Can do everythings.
 
 ![stats](https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&show_icons=true)
 
+# Contact
+
+![IG](https://www.instagram.com/run_ptrd/)
+
