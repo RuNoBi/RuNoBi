@@ -1,2 +1,7 @@
-<h1>hi there</h1>
-<h2>mfdsl</h2>
+# Who am I?
+I'm Puttaradol Pongpanich (Run)
+Computer Engineering And Digital Technology Chulalongkorn University
+
+# What's my skills?
+nothing T_T
+
